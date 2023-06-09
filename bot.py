@@ -2,7 +2,6 @@ import telebot
 from telebot import types
 
 bot = telebot.TeleBot('6219044790:AAHBNwgpnY8NAhD1_8jCSTi032wRY1LRv_I')
-
 # Список товаров
 products = []
 
